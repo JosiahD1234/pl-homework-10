@@ -1,0 +1,3 @@
+infinite {
+    print("End this loop with command+C");
+}
